@@ -1,0 +1,7 @@
+global:
+  openshift: true
+  externalVaultAddr: "https://vault.lab.local:8200"
+
+injector:
+  enabled: true
+  authPath: "auth/crc"
