@@ -1,4 +1,4 @@
-﻿# K8S Vault tutorial
+﻿# K8S Vault Injector tutorial
 
 This repo contains a tutorial on how-to setup hashicorp vault injector and multiple k8s/openshift clusters with an external hashicorp vault
 
